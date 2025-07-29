@@ -22,7 +22,7 @@
         <!--first chaild-->
         <nav class="navbar navbar-expand-lg navbar-light bg-warning">
             <div class="container-fluid">
-                <img src="./images/logo.png" alt="" class="logo">
+                <img src=".logo.png" alt="" class="logo">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
                 </button>
@@ -59,7 +59,7 @@
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
                         <!-- <H1 id="ab">About Us:</H1> -->
-                        <img src="./images/frame1.png" alt="" class="mainimg">
+                        <img src=".frame1.png" alt="" class="mainimg">
 
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                     <div class="col">
                     <div class="col">
                         <div class="card" style="width: 18rem;">
-                            <img src="./images/logo.png" class="card-img-top" alt="...">
+                            <img src=".logo.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -95,7 +95,7 @@
                     <div class="col">
                     <div class="col">
                         <div class="card" style="width: 18rem;">
-                            <img src="./images/logo.png" class="card-img-top" alt="...">
+                            <img src=".logo.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -107,7 +107,7 @@
                     <div class="col">
                     <div class="col">
                         <div class="card" style="width: 18rem;">
-                            <img src="./images/logo.png" class="card-img-top" alt="...">
+                            <img src=".logo.png" class="card-img-top" alt="...">
                             <div class="card-body">
                                 <h5 class="card-title">Card title</h5>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
