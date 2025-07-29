@@ -1,0 +1,45 @@
+.logo{
+    width:5%;
+    height:5%;
+
+}
+.mainimg{
+    width:100%;
+    height:100%;
+    justify-content: end;
+}
+
+#heropera{
+    /* background-color: goldenrod; */
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#heropera H1{
+    padding-bottom: 20px;
+    color: darkgreen;
+}
+#heropera h5{
+    padding-bottom: 5px;
+    color: rgb(6, 178, 221);
+}
+
+#Benefit H1{
+    padding: 0 100px;
+    display: flex;
+    justify-content: center;
+    color: darkgreen;
+
+}
+#orderplace2 {
+    padding: 10px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+
